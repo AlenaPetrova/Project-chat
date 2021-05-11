@@ -1,0 +1,16 @@
+C:\Users\mmk\Downloads\chat-gui\chat-gui\Chat\bin\Debug\Chat.dll.config
+C:\Users\mmk\Downloads\chat-gui\chat-gui\Chat\bin\Debug\Chat.XML
+C:\Users\mmk\Downloads\chat-gui\chat-gui\Chat\bin\Debug\Chat.dll
+C:\Users\mmk\Downloads\chat-gui\chat-gui\Chat\bin\Debug\Chat.pdb
+C:\Users\mmk\Downloads\chat-gui\chat-gui\Chat\obj\Debug\Chat.csprojAssemblyReference.cache
+C:\Users\mmk\Downloads\chat-gui\chat-gui\Chat\obj\Debug\Chat.csproj.CoreCompileInputs.cache
+C:\Users\mmk\Downloads\chat-gui\chat-gui\Chat\obj\Debug\Chat.dll
+C:\Users\mmk\Downloads\chat-gui\chat-gui\Chat\obj\Debug\Chat.pdb
+C:\Users\mmk\Desktop\Учеба\4 курс\ОППО\Чат\Chat\bin\Debug\Chat.dll.config
+C:\Users\mmk\Desktop\Учеба\4 курс\ОППО\Чат\Chat\bin\Debug\Chat.XML
+C:\Users\mmk\Desktop\Учеба\4 курс\ОППО\Чат\Chat\bin\Debug\Chat.dll
+C:\Users\mmk\Desktop\Учеба\4 курс\ОППО\Чат\Chat\bin\Debug\Chat.pdb
+C:\Users\mmk\Desktop\Учеба\4 курс\ОППО\Чат\Chat\obj\Debug\Chat.csprojAssemblyReference.cache
+C:\Users\mmk\Desktop\Учеба\4 курс\ОППО\Чат\Chat\obj\Debug\Chat.csproj.CoreCompileInputs.cache
+C:\Users\mmk\Desktop\Учеба\4 курс\ОППО\Чат\Chat\obj\Debug\Chat.dll
+C:\Users\mmk\Desktop\Учеба\4 курс\ОППО\Чат\Chat\obj\Debug\Chat.pdb
